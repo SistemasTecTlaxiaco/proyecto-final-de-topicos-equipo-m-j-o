@@ -1,0 +1,6 @@
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\bin\Debug\ValidacionesITTL.dll
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\bin\Debug\ValidacionesITTL.pdb
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\obj\Debug\ValidacionesITTL.csproj.AssemblyReference.cache
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\obj\Debug\ValidacionesITTL.csproj.CoreCompileInputs.cache
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\obj\Debug\ValidacionesITTL.dll
+C:\Users\sosa1\source\repos\ValidacionesITTL\ValidacionesITTL\obj\Debug\ValidacionesITTL.pdb
