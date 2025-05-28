@@ -18,9 +18,9 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
 
+            // Centro el formulario en la pantalla al cargar
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
-
-        
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -56,16 +56,18 @@ namespace App_Club
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Alternativamente, podrías ponerlo aquí también:
+            // this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void txt1Form1_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void pictureBox3_Click_1(object sender, EventArgs e)
         {
-            
+
         }
 
         private void pictureBox2_Click_1(object sender, EventArgs e)
@@ -95,10 +97,10 @@ namespace App_Club
                 contraseña = ""
             };
 
-            Form formulario = new Form3(invitado); // ✅ Pasas el alumno
+            Form formulario = new Form3(invitado);
             formulario.Show();
             this.Hide();
         }
-
     }
 }
+

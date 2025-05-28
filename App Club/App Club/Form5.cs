@@ -20,6 +20,7 @@ namespace App_Club
             this.alumnoActual = alumno;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
 

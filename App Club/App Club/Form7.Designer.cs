@@ -48,9 +48,10 @@
             this.btnRegistrarse_f7.BackColor = System.Drawing.Color.LightSlateGray;
             this.btnRegistrarse_f7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
             this.btnRegistrarse_f7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrarse_f7.Location = new System.Drawing.Point(612, 9);
+            this.btnRegistrarse_f7.Location = new System.Drawing.Point(459, 7);
+            this.btnRegistrarse_f7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnRegistrarse_f7.Name = "btnRegistrarse_f7";
-            this.btnRegistrarse_f7.Size = new System.Drawing.Size(140, 45);
+            this.btnRegistrarse_f7.Size = new System.Drawing.Size(105, 37);
             this.btnRegistrarse_f7.TabIndex = 32;
             this.btnRegistrarse_f7.Text = "Registrarse";
             this.btnRegistrarse_f7.UseVisualStyleBackColor = false;
@@ -61,10 +62,11 @@
             this.btnMenu_f7.BackColor = System.Drawing.Color.LightSlateGray;
             this.btnMenu_f7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
             this.btnMenu_f7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMenu_f7.Location = new System.Drawing.Point(-2, 8);
+            this.btnMenu_f7.Location = new System.Drawing.Point(-2, 6);
+            this.btnMenu_f7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnMenu_f7.Name = "btnMenu_f7";
             this.btnMenu_f7.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.btnMenu_f7.Size = new System.Drawing.Size(107, 46);
+            this.btnMenu_f7.Size = new System.Drawing.Size(80, 37);
             this.btnMenu_f7.TabIndex = 31;
             this.btnMenu_f7.Text = "Menú";
             this.btnMenu_f7.UseVisualStyleBackColor = false;
@@ -73,9 +75,10 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(101, 386);
+            this.pictureBox3.Location = new System.Drawing.Point(76, 314);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(223, 153);
+            this.pictureBox3.Size = new System.Drawing.Size(167, 124);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 30;
             this.pictureBox3.TabStop = false;
@@ -83,9 +86,10 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(455, 318);
+            this.pictureBox2.Location = new System.Drawing.Point(341, 258);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(195, 204);
+            this.pictureBox2.Size = new System.Drawing.Size(146, 166);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 29;
             this.pictureBox2.TabStop = false;
@@ -95,11 +99,12 @@
             this.textBox4.BackColor = System.Drawing.Color.MidnightBlue;
             this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.textBox4.Location = new System.Drawing.Point(37, 72);
+            this.textBox4.Location = new System.Drawing.Point(28, 58);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(660, 56);
+            this.textBox4.Size = new System.Drawing.Size(496, 46);
             this.textBox4.TabIndex = 28;
             this.textBox4.Text = "CLUB DE DANZA";
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -109,11 +114,12 @@
             // 
             this.textBox3.BackColor = System.Drawing.SystemColors.HotTrack;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(436, 139);
+            this.textBox3.Location = new System.Drawing.Point(327, 113);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(256, 49);
+            this.textBox3.Size = new System.Drawing.Size(193, 41);
             this.textBox3.TabIndex = 27;
             this.textBox3.Text = "Horario";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -122,11 +128,12 @@
             // 
             this.textBox2.BackColor = System.Drawing.Color.SlateBlue;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(455, 186);
+            this.textBox2.Location = new System.Drawing.Point(341, 151);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(217, 126);
+            this.textBox2.Size = new System.Drawing.Size(164, 103);
             this.textBox2.TabIndex = 26;
             this.textBox2.Text = "\r\nJueves: 7 a 9 am\r\n\r\nViernes: 7 a 9 am";
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -135,11 +142,12 @@
             // 
             this.textBox1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(12, 134);
+            this.textBox1.Location = new System.Drawing.Point(9, 109);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(418, 246);
+            this.textBox1.Size = new System.Drawing.Size(314, 201);
             this.textBox1.TabIndex = 25;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -147,19 +155,20 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(557, 72);
+            this.pictureBox1.Location = new System.Drawing.Point(418, 58);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(80, 56);
+            this.pictureBox1.Size = new System.Drawing.Size(60, 46);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 33;
             this.pictureBox1.TabStop = false;
             // 
             // Form7
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumSlateBlue;
-            this.ClientSize = new System.Drawing.Size(751, 547);
+            this.ClientSize = new System.Drawing.Size(563, 444);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnRegistrarse_f7);
             this.Controls.Add(this.btnMenu_f7);
@@ -169,8 +178,9 @@
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form7";
-            this.Text = "Form7";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.Form7_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

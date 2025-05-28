@@ -14,6 +14,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.alumnoActual = alumno;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         // ✅ 3. Mostrar los datos al cargar el formulario

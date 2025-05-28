@@ -154,3 +154,61 @@ C:\Users\sosa1\Desktop\AppFinal\App Club\App Club\obj\Debug\App Club.csproj.Core
 C:\Users\sosa1\Desktop\AppFinal\App Club\App Club\obj\Debug\App Club.csproj.Up2Date
 C:\Users\sosa1\Desktop\AppFinal\App Club\App Club\obj\Debug\App Club.exe
 C:\Users\sosa1\Desktop\AppFinal\App Club\App Club\obj\Debug\App Club.pdb
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\App Club.exe.config
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\App Club.exe
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\App Club.pdb
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Google.Protobuf.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\MySql.Data.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\MySqlConnector.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Buffers.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.IO.Pipelines.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Memory.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\ValidacionesITTL.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\ZstdSharp.dll
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Google.Protobuf.pdb
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Google.Protobuf.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\MySql.Data.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\MySqlConnector.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Buffers.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.IO.Pipelines.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Memory.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\bin\Debug\ValidacionesITTL.pdb
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.csproj.AssemblyReference.cache
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form1.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form10.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form2.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form3.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form4.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form5.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form6.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form7.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form8.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Form9.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App_Club.Properties.Resources.resources
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.csproj.GenerateResource.cache
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.csproj.CoreCompileInputs.cache
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.csproj.Up2Date
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.exe
+C:\Users\garci\Desktop\FINALPROYECTO\proyecto-final-de-topicos-equipo-m-j-o\App Club\App Club\obj\Debug\App Club.pdb

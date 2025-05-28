@@ -19,6 +19,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)

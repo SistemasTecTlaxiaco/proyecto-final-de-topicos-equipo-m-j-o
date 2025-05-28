@@ -19,6 +19,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void Form6_Load(object sender, EventArgs e)

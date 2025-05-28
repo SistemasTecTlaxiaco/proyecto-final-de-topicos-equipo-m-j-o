@@ -13,6 +13,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)

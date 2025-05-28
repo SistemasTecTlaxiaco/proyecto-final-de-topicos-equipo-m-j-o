@@ -14,6 +14,7 @@ namespace App_Club
             InitializeComponent();
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void btninisiarform2_Click(object sender, EventArgs e)

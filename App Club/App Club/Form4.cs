@@ -19,6 +19,7 @@ namespace App_Club
             InitializeComponent();
             this.MaximizeBox = false;
             this.MinimizeBox = false;
+            this.StartPosition = FormStartPosition.CenterScreen;
 
             this.alumnoActual = alumno;
         }
