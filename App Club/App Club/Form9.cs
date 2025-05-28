@@ -14,6 +14,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Página de Registro";
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)

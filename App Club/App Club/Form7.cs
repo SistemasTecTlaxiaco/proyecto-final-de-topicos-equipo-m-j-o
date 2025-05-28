@@ -20,6 +20,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Club Danza";
         }
 
         private void textBox4_TextChanged(object sender, EventArgs e)

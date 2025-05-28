@@ -20,6 +20,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Club Programacion";
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)

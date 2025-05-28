@@ -20,6 +20,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Página de Confirmacion";
         }
 
         private void btnRegresar_f10_Click(object sender, EventArgs e)
