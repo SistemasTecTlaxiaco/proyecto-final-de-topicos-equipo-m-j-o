@@ -20,6 +20,7 @@ namespace App_Club
 
             // Centro el formulario en la pantalla al cargar
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Página de Inicio";
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

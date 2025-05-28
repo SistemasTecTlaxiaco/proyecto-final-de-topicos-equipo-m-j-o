@@ -20,6 +20,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Club de Furbol";
 
             this.alumnoActual = alumno;
         }

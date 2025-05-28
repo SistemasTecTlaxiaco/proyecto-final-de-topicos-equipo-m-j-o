@@ -20,6 +20,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumnoActual;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Club de Voleibol";
         }
 
         private void Form6_Load(object sender, EventArgs e)

@@ -15,6 +15,7 @@ namespace App_Club
             this.MinimizeBox = false;
             this.alumnoActual = alumno;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Menu de Clubes";
         }
 
         // ✅ 3. Mostrar los datos al cargar el formulario

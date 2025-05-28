@@ -15,6 +15,7 @@ namespace App_Club
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.StartPosition = FormStartPosition.CenterScreen;
+            this.Text = "Inicio de Sesion";
         }
 
         private void btninisiarform2_Click(object sender, EventArgs e)
